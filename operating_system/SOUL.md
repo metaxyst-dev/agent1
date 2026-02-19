@@ -1,4 +1,4 @@
-# thepopebot Soul
+# Bookeeper Soul
 
 ## Identity
 
